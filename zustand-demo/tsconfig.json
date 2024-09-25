@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+      "target": "es6",                           // Target: ECMAScript 2015 (ES6)
+      "module": "commonjs",                      // Usar módulos CommonJS
+      "jsx": "react",                            // Habilitar JSX (para proyectos de React)
+      "strict": true,                            // Habilitar modo estricto para mejor tipado
+      "esModuleInterop": true,                   // Mejor compatibilidad con ESModules
+      "skipLibCheck": true,                      // Saltar la verificación de tipos de las bibliotecas
+      "forceConsistentCasingInFileNames": true   // Forzar el uso consistente de mayúsculas/minúsculas en nombres de archivos
+    },
+    "include": ["src/**/*"],                     // Incluir todos los archivos en la carpeta src
+    "exclude": ["node_modules", "dist"]          // Excluir node_modules y dist
+  }
+  
