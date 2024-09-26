@@ -54,11 +54,13 @@ El proyecto de manejo de estado con **Redux** está planeado, pero aún no se ha
 
 # Proyecto UseContext
 
-![Pruebas]('./renderProps-demo/src/assets/UseContext.png)
+![UseContext](https://github.com/user-attachments/assets/eba8577f-9d07-413f-855a-ef7cf12609ce)
+
 
 # Proyecto Zustand
 
-![Pruebas]('./renderProps-demo/src/assets/Zustand+reactQuery.png)
+![Zustand+reactQuery](https://github.com/user-attachments/assets/33083982-da89-428e-a1bf-6016508651e9)
+
 
 # En Progreso 4
 
