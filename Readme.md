@@ -57,7 +57,7 @@ El proyecto de manejo de estado con **Redux** está planeado, pero aún no se ha
 
 # Proyecto Zustand
 
-<img src="https://github.com/user-attachments/assets/33083982-da89-428e-a1bf-6016508651e9" alt="Zustand + React Query Demo" width="200"/>
+<img src="https://github.com/user-attachments/assets/33083982-da89-428e-a1bf-6016508651e9" alt="Zustand + React Query Demo"  width="500 "/>
 
 # En Progreso 4
 
