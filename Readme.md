@@ -45,7 +45,7 @@ El proyecto de manejo de estado con **Redux** está planeado, pero aún no se ha
 
 
 
-### 🔵 Ilustre con imagenes los proyectos no hay nada estetico la idea de estos proyectos es la practica
+### 🔵 NO hay nada estetico la idea de estos proyectos es la practica
 
 # Proyecto RenderProps
 <img src="https://github.com/user-attachments/assets/9b05801c-d27f-44d8-90c3-86977a39627f" alt="Render Props Demo" width="200"/>
