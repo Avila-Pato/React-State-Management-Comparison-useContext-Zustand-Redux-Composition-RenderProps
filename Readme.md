@@ -49,7 +49,7 @@ El proyecto de manejo de estado con **Redux** está planeado, pero aún no se ha
 
 # Proyecto RenderProps
 
-[RenderPROPS](https://github.com/user-attachments/assets/9b05801c-d27f-44d8-90c3-86977a39627f)
+![RenderPROPS](https://github.com/user-attachments/assets/9b05801c-d27f-44d8-90c3-86977a39627f)
 
 
 # Proyecto UseContext
