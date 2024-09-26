@@ -45,22 +45,19 @@ El proyecto de manejo de estado con **Redux** está planeado, pero aún no se ha
 
 
 
-## Ilustrate con imagenes los proyectos no hay nada estetico la idea de estos proyectos es la practica
+###  Ilustrae con imagenes los proyectos no hay nada estetico la idea de estos proyectos es la practica
 
 # Proyecto RenderProps
-
-![RenderPROPS](https://github.com/user-attachments/assets/9b05801c-d27f-44d8-90c3-86977a39627f)
+<img src="https://github.com/user-attachments/assets/9b05801c-d27f-44d8-90c3-86977a39627f" alt="Render Props Demo" width="200"/>
 
 
 # Proyecto UseContext
 
-![UseContext](https://github.com/user-attachments/assets/eba8577f-9d07-413f-855a-ef7cf12609ce)
-
+<img src="https://github.com/user-attachments/assets/eba8577f-9d07-413f-855a-ef7cf12609ce" alt="useContext + useReducer Demo" width="200"/>
 
 # Proyecto Zustand
 
-![Zustand+reactQuery](https://github.com/user-attachments/assets/33083982-da89-428e-a1bf-6016508651e9)
-
+<img src="https://github.com/user-attachments/assets/33083982-da89-428e-a1bf-6016508651e9" alt="Zustand + React Query Demo" width="200"/>
 
 # En Progreso 4
 
