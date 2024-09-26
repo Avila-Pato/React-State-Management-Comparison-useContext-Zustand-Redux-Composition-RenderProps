@@ -46,7 +46,7 @@ Este proyecto combina **Zustand** para manejar el estado global de la aplicació
 
 El proyecto de Redux ha sido completado y está listo para su uso. Este repositorio continuará siendo un recurso para aprender diferentes enfoques de manejo de estado en aplicaciones React.
 
-Este proyecto se centra en aprender las bases de **Redux** de forma práctica utilizando **Redux Toolkit** y **React**. En este ejemplo práctico, hemos creado una aplicación web CRUD (Create, Read, Update, Delete) desde cero, utilizando **create-react-app**, **react-redux**, y **redux-toolkit**. Además, hemos añadido **TailwindCSS** a nuestro proyecto como framework de CSS.
+La idea  centra en aprender **Redux** de forma práctica utilizando **Redux Toolkit** y **React**. En este ejemplo práctico, he creado una aplicación web CRUD (Create, Read, Update, Delete) desde cero, utilizando **create-react-app**, **react-redux**, y **redux-toolkit**. Además, he añadido **TailwindCSS**  como framework de CSS.
 
 - **Nota**: Este proyecto no incluye una imagen de demostración debido a que se subio a produccion.
 
