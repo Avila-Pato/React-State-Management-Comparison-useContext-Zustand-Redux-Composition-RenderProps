@@ -39,7 +39,7 @@ Este proyecto combina **Zustand** para manejar el estado global de la aplicació
 
 En este proyecto, se implementa una funcionalidad de likes que persiste incluso al recargar la página. La funcionalidad está diseñada de la siguiente manera:
 
-- **API Backend**: Se utiliza una API personalizada que maneja la lógica de los likes de cada proyecto, permitiendo incrementar o decrementar los likes de manera segura y almacenando los datos en una base de datos.
+- **API Personalizada**: Se utiliza una API personalizada que maneja la lógica de los likes de cada proyecto, permitiendo incrementar o decrementar los likes de manera segura y almacenando los datos en una base de datos.
 - **React Query**: Maneja las llamadas a la API para obtener los proyectos y actualizar el número de likes. Utiliza el cache de **React Query** para optimizar las solicitudes de red y mantener la sincronización entre la base de datos y la UI.
 - **Zustand**: Se utiliza para gestionar el estado global de la aplicación, permitiendo que el contador de likes se mantenga sincronizado en toda la interfaz.
 - **Persistencia**: Al hacer clic en el botón de "Like", se actualiza el contador tanto en el estado local de la aplicación como en la base de datos a través de la API, garantizando que los datos se mantengan incluso si la página se recarga.
@@ -52,8 +52,6 @@ En este proyecto, se implementa una funcionalidad de likes que persiste incluso 
 - **Axios**: Para las llamadas a APIs.
 - **Vite**: Herramienta de desarrollo.
 - **ESLint**: Para el control de calidad del código.
-
-### 4. Redux (Finalizado)
 
 
 ### 4. Redux (Finalizado)
